@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elysiaroscoe" alt="elysiaroscoe" /></a> </p>
 
-- 🔭 I’m currently working on **a job application tracker**
+- 🔭 I’m currently working on an **ESPORTS scrim and tournament scheduling app**
 
 - 🌱 I’m currently deepening my knowledge of **C#**
 
