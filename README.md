@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **elysiaroscoe@gmail.com**
 
-- 📄 Know about my experiences [View my resume](https://drive.google.com/file/d/17zFAGHfm33XQUxVZqCmYW6FeMhz_clyF/view?usp=sharing)
+- 📄 Know about my experiences [View my resume](https://drive.google.com/file/d/1BoBpvV5ZgSo5ilP4_-XhSxa8mmRJRSBr/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a nonbinary lesbian and care deeply about human rights**
 
