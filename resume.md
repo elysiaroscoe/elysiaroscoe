@@ -2,7 +2,7 @@
 they/them
 
 Seattle, WA | [LinkedIn](https://www.linkedin.com/in/elysiaroscoe/) | [GitHub](https://github.com/elysiaroscoe/) | elysiaroscoe@proton.me | (206) 734-9049
-## Lead Frontend Engineer
+## Senior Frontend Engineer
 
 **React • TypeScript • UI Architecture • Performance Optimization**
 
