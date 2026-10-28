@@ -21,3 +21,4 @@ Prior to software engineering, I worked in the performing arts and earned a BFA 
 
 - [LinkedIn](https://www.linkedin.com/in/elysiaroscoe/)
 - [Email](mailto:elysiaroscoe@gmail.com)
+- [Resume](resume.md)
